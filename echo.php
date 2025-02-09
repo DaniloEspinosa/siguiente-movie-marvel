@@ -1,0 +1,1 @@
+<?php echo "Soy un require once" ?>
